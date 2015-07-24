@@ -1,6 +1,14 @@
 # CKEditor-Plugins
+
+== What is CKEditor?
+
+CKEditor is a WYSIWYG text editor.
+See {the official site}[http://ckeditor.com/] for more details.
+
 ## What plugins have:
 * **Alerts** -  With this plugin you can add bootstrap styled alerts.
+
+### Tested on **ckeditor 4.5.1**, **Ubuntu 14.04**, **Redmine 3.0.4.stable**
 
 ## Plugins installation:
 1. Copy plugin directory into /ckeditor/plugins/**pluginName**
@@ -10,3 +18,4 @@
  * CKEDITOR.instances.editor1.insertElement( element );
    * Where editor1 is name of textarea in your html !... **editor1 is default name. if you can dont change it !**
 
+## Plugin installation for Redmine (tested on **Ubuntu**)
