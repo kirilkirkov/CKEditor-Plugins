@@ -19,4 +19,4 @@ CKEditor is a WYSIWYG text editor. See [the official site](http://ckeditor.com/)
    * Where editor1 is name of textarea in your html !... **editor1 is default name. if you can dont change it !**
 
 ## Plugin installation for Redmine (tested on **Ubuntu**)
-You can download plugins from [Add-ons Repository](http://ckeditor.com/addons/plugins/all). To activate the plugin you have to copy the plugin directory into assets/ckeditor-contrib/plugins and restart Redmine, then configure toolbar settings.
+You can download plugins from [Add-ons Repository](http://ckeditor.com/addons/plugins/all). To activate the plugin you have to copy the plugin directory into **assets/ckeditor-contrib/plugins** and restart Redmine, then configure toolbar settings.
