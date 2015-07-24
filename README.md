@@ -1,0 +1,2 @@
+# CKEditor-Plugins
+Useful plugins
