@@ -8,7 +8,7 @@ CKEditor is a WYSIWYG text editor. See [the official site](http://ckeditor.com/)
 ## What plugins have:
 * **Alerts** -  With this plugin you can add bootstrap styled alerts.
 
-- Tested on **ckeditor 4.5.1**, **Ubuntu 14.04**, **Redmine 3.0.4.stable**
+Tested on **ckeditor 4.5.1**, **Ubuntu 14.04**, **Redmine 3.0.4.stable**
 
 ## Plugins installation:
 1. Copy plugin directory into /ckeditor/plugins/**pluginName**
