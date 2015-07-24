@@ -32,7 +32,7 @@ CKEDITOR.plugins.add('alerts',
                             multiSelect: false,
                             panel:
                                     {
-                                        // css: [config.contentsCss, CKEDITOR.getUrl(editor.skinPath + 'editor.css')]
+                                        css: [config.contentsCss, CKEDITOR.getUrl(editor.skinPath + 'editor.css')]
                                     },
                             init: function ()
                             {
