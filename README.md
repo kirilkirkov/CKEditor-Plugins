@@ -9,3 +9,7 @@
  1. var element = CKEDITOR.dom.element.createFromHtml(value );
 	       CKEDITOR.instances.editor1.insertElement( element );
 *** Where editor1 is name of textarea in your html !... **editor1 is default name. if you can dont change it !**
+
+1. Item 1
+  1. A corollary to the above item.
+  2. Yet another point to consider.
